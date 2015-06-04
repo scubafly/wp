@@ -1,0 +1,24 @@
+input.ltycRadio { margin: 0 0 -3px 5px; border: none; }
+.marginRight25 { margin-right: 25px!important; }
+#link .panel_wrapper, #link div.current { height: auto!important; }
+#link .documentListWrap { height: 320px; overflow: auto; margin: 5px 0; border: 1px solid #919B9C; }
+#link .linkInformationWrap { height: 320px; overflow: hidden; margin: 5px 0; border: 1px solid #919b9c; padding: 10px; }
+th { font-weight: bold; text-align: left; font-size: 11px; }
+td { overflow: hidden; font-size: 13px; line-height: 17px; }
+input { margin-bottom: 5px; }
+label, p { font-size: 12px; font-weight: bold; margin: 0; }
+input, select, textarea { font-size: 12px; }
+p { font-weight: normal; }
+p.entryTypeToggle { margin: 0 0 7px; }
+p.errorMessage { border: 1px solid #600; background-color: #FFC1C1; color: #600; padding: 5px 10px; margin-top: 5px; }
+a.selectDocument { color: #13455B; display: block; border: 1px solid #919B9C; padding: 3px 0; text-align: center; font-size: 11px; text-transform: uppercase; background-color: #EAF2FA; text-decoration: none; }
+a.selectDocument:hover { color: #21759B; border: 1px solid #A7C3DF; }
+tr.selectedDocument td { background-color: #A7C3DF!important; }
+.clear { font-size: 0; line-height: 0; height: 0; clear: both; visibility: hidden; }
+.documentHeader { float: left; display: inline; width: 345px; }
+.pagination { float: right; display: inline; text-align: right; width: 345px; }
+.pagination a { color: #13455B; text-decoration: none; margin: 0 1px; padding: 0 0.4em 0.1em; background-color: #EAF2FA; border: 1px solid #919B9C; }
+.pagination a:hover, .pagination a#currentPage { text-decoration: none; color: #21759B; border: 1px solid #A7C3DF; }
+.multisiteToggle { margin: 0 0 0.8em; }
+#loadingGraphic { width: 66px; height: 66px; position: absolute; left: 334px; top: 195px; }
+#search_panel table p { margin: 15px; }

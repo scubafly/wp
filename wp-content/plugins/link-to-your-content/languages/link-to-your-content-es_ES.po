@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Link to Your Content\n"
+"POT-Creation-Date: 2014-03-02 16:43-0500\n"
+"PO-Revision-Date: 2014-03-30 18:23-0500\n"
+"Last-Translator: Maymond <wp@maymond.com>\n"
+"Language-Team: Maymond <wp@maymond.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../link-to-your-content/content_links.php:4
+#: ../link-to-your-content/link_to_your_content.php:110
+#: ../link-to-your-content/link_to_your_content.php:118
+#: ../link-to-your-content/mce_langs.php:5
+msgid "Link to Your Content"
+msgstr "Enlace a su contenido"
+
+#: ../link-to-your-content/content_links.php:55
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../link-to-your-content/content_links.php:60
+msgid "Insert"
+msgstr "Insertar"
+
+#: ../link-to-your-content/content_links.php:64
+msgid "Loading..."
+msgstr "Cargando ..."
+
+#: ../link-to-your-content/link_to_your_content.php:110
+#: ../link-to-your-content/link_to_your_content.php:118
+#: ../link-to-your-content/ltyc_options.php:15
+msgid "Link to Your Content Options"
+msgstr "Enlace a sus opciones de contenido"
+
+#: ../link-to-your-content/link_to_your_content.php:127
+#: ../link-to-your-content/link_to_your_content.php:139
+#, php-format
+msgid "<a href=\"%s\">Settings</a>"
+msgstr "<a href=\"%s\"> Configuración </a>"
+
+#: ../link-to-your-content/link_to_your_content.php:222
+msgid "External URL"
+msgstr "URL externa"
+
+#: ../link-to-your-content/link_to_your_content.php:223
+msgid "E-mail Address"
+msgstr "Dirección E-mail"
+
+#: ../link-to-your-content/link_to_your_content.php:228
+msgid "Title"
+msgstr "Título"
+
+#: ../link-to-your-content/link_to_your_content.php:231
+msgid "Target"
+msgstr "Objetivo"
+
+#: ../link-to-your-content/link_to_your_content.php:233
+msgid "Open in the same window"
+msgstr "Abrir en la misma ventana"
+
+#: ../link-to-your-content/link_to_your_content.php:234
+msgid "Open in a new window"
+msgstr "Abrir en una nueva ventana"
+
+#: ../link-to-your-content/link_to_your_content.php:256
+msgid "Where to search"
+msgstr "Dónde buscar"
+
+#: ../link-to-your-content/link_to_your_content.php:267
+msgid "What to search"
+msgstr "Qué buscar"
+
+#: ../link-to-your-content/link_to_your_content.php:268
+msgid "Posts/Pages/Custom Post Types"
+msgstr "Tipos de Publicación Mensajes / Páginas / Personalizados"
+
+#: ../link-to-your-content/link_to_your_content.php:270
+#: ../link-to-your-content/link_to_your_content.php:334
+msgid "Taxonomies"
+msgstr "Taxonomías"
+
+#: ../link-to-your-content/link_to_your_content.php:272
+msgid "All Media"
+msgstr "Todos los Medios"
+
+#: ../link-to-your-content/link_to_your_content.php:274
+#: ../link-to-your-content/link_to_your_content.php:275
+#: ../link-to-your-content/link_to_your_content.php:340
+msgid "Search"
+msgstr "Buscar"
+
+#: ../link-to-your-content/link_to_your_content.php:276
+msgid "Search results for:"
+msgstr "Resultados de la búsqueda"
+
+#: ../link-to-your-content/link_to_your_content.php:277
+msgid "No matches found."
+msgstr "No se han encontrado coincidencias."
+
+#: ../link-to-your-content/link_to_your_content.php:278
+msgid "Search again"
+msgstr "Buscar de nuevo"
+
+#: ../link-to-your-content/link_to_your_content.php:297
+msgid "Choose Site"
+msgstr "Elegir Sitio"
+
+#: ../link-to-your-content/link_to_your_content.php:325
+msgid "Posts"
+msgstr "Publicaciones"
+
+#: ../link-to-your-content/link_to_your_content.php:326
+msgid "Pages"
+msgstr "Páginas"
+
+#: ../link-to-your-content/link_to_your_content.php:330
+msgid "Custom Post Types"
+msgstr "Tipos de Publicación personalizado"
+
+#: ../link-to-your-content/link_to_your_content.php:336
+msgid "Docs"
+msgstr "Documentos"
+
+#: ../link-to-your-content/link_to_your_content.php:337
+msgid "Images"
+msgstr "Imágenes"
+
+#: ../link-to-your-content/link_to_your_content.php:338
+msgid "Media"
+msgstr "Medios"
+
+#: ../link-to-your-content/link_to_your_content.php:339
+msgid "External"
+msgstr "Externo"
+
+#: ../link-to-your-content/link_to_your_content.php:359
+msgid "Choose Custom Post Type"
+msgstr "Elegir Tipo de Publicación Personalizado"
+
+#: ../link-to-your-content/link_to_your_content.php:392
+msgid "Choose Taxonomy"
+msgstr "Elegir taxonomía"
+
+#: ../link-to-your-content/link_to_your_content.php:612
+#: ../link-to-your-content/link_to_your_content.php:654
+#: ../link-to-your-content/link_to_your_content.php:659
+#: ../link-to-your-content/link_to_your_content.php:674
+#: ../link-to-your-content/link_to_your_content.php:679
+#: ../link-to-your-content/link_to_your_content.php:852
+#: ../link-to-your-content/link_to_your_content.php:862
+#: ../link-to-your-content/link_to_your_content.php:875
+#: ../link-to-your-content/link_to_your_content.php:879
+#: ../link-to-your-content/link_to_your_content.php:883
+#: ../link-to-your-content/link_to_your_content.php:897
+#: ../link-to-your-content/link_to_your_content.php:901
+#: ../link-to-your-content/link_to_your_content.php:905
+#: ../link-to-your-content/link_to_your_content.php:919
+msgid "Select"
+msgstr "Seleccionar"
+
+#: ../link-to-your-content/link_to_your_content.php:646
+msgid "Select Post"
+msgstr "Seleccionar Publicación"
+
+#: ../link-to-your-content/link_to_your_content.php:649
+msgid "Select Page"
+msgstr "Seleccionar página"
+
+#: ../link-to-your-content/link_to_your_content.php:692
+msgid "Select Document"
+msgstr "Seleccionar documento"
+
+#: ../link-to-your-content/link_to_your_content.php:695
+msgid "Select Image"
+msgstr "Seleccionar Imagen"
+
+#: ../link-to-your-content/link_to_your_content.php:698
+msgid "Select Media"
+msgstr "Seleccionar medios"
+
+#: ../link-to-your-content/link_to_your_content.php:701
+msgid "Select Entry"
+msgstr "Seleccionar entrada"
+
+#: ../link-to-your-content/ltyc_config.php:32
+msgid "You are not allowed to be here."
+msgstr "No se le permite estar aquí."
+
+#: ../link-to-your-content/ltyc_options.php:2
+msgid "You are not allowed to call this page directly."
+msgstr "No se le permite llamar a esta página directamente"
+
+#: ../link-to-your-content/ltyc_options.php:5
+#: ../link-to-your-content/ltyc_options.php:8
+msgid "You don't have sufficient privileges to view this page."
+msgstr "Usted no tiene suficientes privilegios para acceder a esta página."
+
+#: ../link-to-your-content/ltyc_options.php:12
+msgid "Options Saved"
+msgstr "Opciones Guardadas"
+
+#: ../link-to-your-content/ltyc_options.php:26
+msgid "Link to Taxonomies:"
+msgstr "Enlace a taxonomías:"
+
+#: ../link-to-your-content/ltyc_options.php:28
+#: ../link-to-your-content/ltyc_options.php:35
+#: ../link-to-your-content/ltyc_options.php:46
+msgid "Yes"
+msgstr "Sí"
+
+#: ../link-to-your-content/ltyc_options.php:29
+#: ../link-to-your-content/ltyc_options.php:36
+#: ../link-to-your-content/ltyc_options.php:47
+msgid "No"
+msgstr "No"
+
+#: ../link-to-your-content/ltyc_options.php:33
+msgid "Link to Custom Post Types:"
+msgstr "Enlace a Tipos de Publicación Personalizados:"
+
+#: ../link-to-your-content/ltyc_options.php:44
+msgid "Enable Multi-Site:"
+msgstr "Habilitar Multi-Sitio:"
+
+#: ../link-to-your-content/ltyc_options.php:54
+msgid "Paginate results after:"
+msgstr "Paginar resultados después:"
+
+#: ../link-to-your-content/ltyc_options.php:61
+#: ../manage-your-calendar/myc-options.php:356
+#: ../manage-your-slideshow/myss-options.php:403
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: ../link-to-your-content/mce_langs.php:6
+msgid ""
+"I&rsquo;m sorry but it seems that you are trying to switch to a site that "
+"doesn&rsquo;t exist. Please select a valid site from the dropdown above."
+msgstr ""
+"Lo siento pero parece que usted está tratando de cambiar a un sitio que no "
+"existe. Por favor, seleccione un sitio válido de la lista desplegable de "
+"arriba."
+
+#: ../link-to-your-content/mce_langs.php:7
+msgid ""
+"I&rsquo;m sorry but it seems that we were unable to switch you to the site "
+"you requested. Please select another site from the dropdown above."
+msgstr ""
+"Lo siento, pero parece que no fuimos capaces de cambiarle al sitio que ha "
+"solicitado. Por favor, seleccione otro sitio en el menú desplegable de "
+"arriba."
+
+#: ../link-to-your-content/mce_langs.php:8
+msgid ""
+"I&rsquo;m sorry but it seems that we were unable to complete your request. "
+"Please try again."
+msgstr ""
+"Lo siento, pero parece que no hemos podido completar su solicitud. Por "
+"favor, inténtelo de nuevo."
+
+#: ../link-to-your-content/mce_langs.php:9
+msgid ""
+"I&rsquo;m sorry but it seems that you are trying to switch to page that "
+"doesn&rsquo;t exist. Please try again."
+msgstr ""
+"Lo siento, pero parece que usted está tratando de cambiar a una página que "
+"no existe. Por favor, inténtelo de nuevo."
+
+#: ../link-to-your-content/mce_langs.php:10
+msgid ""
+"I&rsquo;m sorry but it seems that you are trying to switch to a panel that "
+"doesn&rsquo;t exist. Please try again."
+msgstr ""
+"Lo siento, pero parece que usted está tratando de cambiar a un panel que no "
+"existe. Por favor, inténtelo de nuevo."
+
+#: ../link-to-your-content/mce_langs.php:11
+msgid ""
+"I&rsquo;m sorry but it seems that you are trying to switch to a custom post "
+"type that doesn&rsquo;t exist. Please try again."
+msgstr ""
+"Lo siento, pero parece que usted está tratando de cambiar a un tipo de "
+"mensaje personalizado que no existe. Por favor, inténtelo de nuevo."
+
+#: ../link-to-your-content/mce_langs.php:12
+msgid ""
+"I&rsquo;m sorry but it seems that you are trying to switch to a taxonomy "
+"that doesn&rsquo;t exist. Please try again."
+msgstr ""
+"Lo siento, pero parece que usted está tratando de cambiar a una taxonomía "
+"que no existe. Por favor, inténtelo de nuevo."
+
+#: ../link-to-your-content/network_activation.php:4
+msgid "Network Activation Error"
+msgstr "Error de Activación de Red"
+
+#: ../link-to-your-content/network_activation.php:8
+msgid "Link to Your Content Error:"
+msgstr "Error de enlace a su contenido:"
+
+#: ../link-to-your-content/network_activation.php:8
+msgid ""
+"plugin cannot be activated network-wide as it is already active on an "
+"individual site."
+msgstr ""
+"El Plugin no se puede activar en toda la red, ya que ya está activo en un "
+"sitio individual"
+
+#: ../link-to-your-content/network_activation.php:9
+msgid "Back"
+msgstr "Volver"

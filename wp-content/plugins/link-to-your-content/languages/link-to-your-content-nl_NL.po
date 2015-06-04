@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Link to Your Content\n"
+"POT-Creation-Date: 2014-03-30 18:22-0500\n"
+"PO-Revision-Date: 2014-04-23 15:35-0500\n"
+"Last-Translator: Maymond <wp@maymond.com>\n"
+"Language-Team: Maymond <wp@maymond.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../content_links.php:4 ../link_to_your_content.php:116
+#: ../link_to_your_content.php:124 ../mce_langs.php:5
+msgid "Link to Your Content"
+msgstr "Link naar Content"
+
+#: ../content_links.php:55
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: ../content_links.php:60
+msgid "Insert"
+msgstr "Voeg in"
+
+#: ../content_links.php:64
+msgid "Loading..."
+msgstr "Laden..."
+
+#: ../link_to_your_content.php:116 ../link_to_your_content.php:124
+#: ../ltyc_options.php:15
+msgid "Link to Your Content Options"
+msgstr "Link naar Uw Contentsopties"
+
+#: ../link_to_your_content.php:133 ../link_to_your_content.php:145
+#, php-format
+msgid "<a href=\"%s\">Settings</a>"
+msgstr "<a href=\"%s\">Instellingen</a>"
+
+#: ../link_to_your_content.php:228
+msgid "External URL"
+msgstr "Externe URL"
+
+#: ../link_to_your_content.php:229
+msgid "E-mail Address"
+msgstr "E-mailadres"
+
+#: ../link_to_your_content.php:234
+msgid "Title"
+msgstr "Titel"
+
+#: ../link_to_your_content.php:237
+msgid "Target"
+msgstr "Doel"
+
+#: ../link_to_your_content.php:239
+msgid "Open in the same window"
+msgstr "Open in hetzelfde scherm"
+
+#: ../link_to_your_content.php:240
+msgid "Open in a new window"
+msgstr "Open in nieuw scherm"
+
+#: ../link_to_your_content.php:262
+msgid "Where to search"
+msgstr "Wat te zoeken"
+
+#: ../link_to_your_content.php:273
+msgid "What to search"
+msgstr "Wat te zoeken"
+
+# Pagina’s, the ’s should be put into a code, not sure wich one. Maybe taxonomieën the ë also?
+#: ../link_to_your_content.php:274
+msgid "Posts/Pages/Custom Post Types"
+msgstr "Posts/Pagina's/Aangepaste Posttypes"
+
+#: ../link_to_your_content.php:276 ../link_to_your_content.php:340
+msgid "Taxonomies"
+msgstr "Taxonomieën"
+
+#: ../link_to_your_content.php:278
+msgid "All Media"
+msgstr "Alle Media"
+
+#: ../link_to_your_content.php:280 ../link_to_your_content.php:281
+#: ../link_to_your_content.php:346
+msgid "Search"
+msgstr "Zoeken"
+
+#: ../link_to_your_content.php:282
+msgid "Search results for:"
+msgstr "Zoekresultaten"
+
+#: ../link_to_your_content.php:283
+msgid "No matches found."
+msgstr "Geen gelijkenis gevonden"
+
+#: ../link_to_your_content.php:284
+msgid "Search again"
+msgstr "Zoek nogmaals"
+
+#: ../link_to_your_content.php:303
+msgid "Choose Site"
+msgstr "Kies Website"
+
+#: ../link_to_your_content.php:331
+msgid "Posts"
+msgstr "Posts"
+
+#: ../link_to_your_content.php:332
+msgid "Pages"
+msgstr "Pagina's"
+
+#: ../link_to_your_content.php:336
+msgid "Custom Post Types"
+msgstr "Aangepaste Posttypes"
+
+#: ../link_to_your_content.php:342
+msgid "Docs"
+msgstr "Documenten"
+
+#: ../link_to_your_content.php:343
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: ../link_to_your_content.php:344
+msgid "Media"
+msgstr "Media"
+
+#: ../link_to_your_content.php:345
+msgid "External"
+msgstr "Extern"
+
+#: ../link_to_your_content.php:365
+msgid "Choose Custom Post Type"
+msgstr "Kies Aangepast Posttype"
+
+#: ../link_to_your_content.php:398
+msgid "Choose Taxonomy"
+msgstr "Kies Taxonomie"
+
+#: ../link_to_your_content.php:618 ../link_to_your_content.php:660
+#: ../link_to_your_content.php:665 ../link_to_your_content.php:680
+#: ../link_to_your_content.php:685 ../link_to_your_content.php:858
+#: ../link_to_your_content.php:868 ../link_to_your_content.php:881
+#: ../link_to_your_content.php:885 ../link_to_your_content.php:889
+#: ../link_to_your_content.php:903 ../link_to_your_content.php:907
+#: ../link_to_your_content.php:911 ../link_to_your_content.php:925
+msgid "Select"
+msgstr "Selecteer"
+
+#: ../link_to_your_content.php:652
+msgid "Select Post"
+msgstr "Selecteer Post"
+
+#: ../link_to_your_content.php:655
+msgid "Select Page"
+msgstr "Selecteer Pagina"
+
+#: ../link_to_your_content.php:698
+msgid "Select Document"
+msgstr "Selecteer Document"
+
+#: ../link_to_your_content.php:701
+msgid "Select Image"
+msgstr "Selecteer Afbeelding"
+
+#: ../link_to_your_content.php:704
+msgid "Select Media"
+msgstr "Selecteer Media"
+
+#: ../link_to_your_content.php:707
+msgid "Select Entry"
+msgstr "Selecteer Onderdeel"
+
+#: ../ltyc_config.php:32
+msgid "You are not allowed to be here."
+msgstr "U bent niet bevoegd hier te zijn."
+
+#: ../ltyc_options.php:2
+msgid "You are not allowed to call this page directly."
+msgstr "U bent niet bevoegd om deze pagina aan te roepen."
+
+#: ../ltyc_options.php:5 ../ltyc_options.php:8
+msgid "You don't have sufficient privileges to view this page."
+msgstr "U heeft onvoldoende rechten om deze pagina te zien."
+
+#: ../ltyc_options.php:12
+msgid "Options Saved"
+msgstr "Opties Bewaard"
+
+#: ../ltyc_options.php:26
+msgid "Link to Taxonomies:"
+msgstr "Link naar Taxonomieën"
+
+#: ../ltyc_options.php:28 ../ltyc_options.php:35 ../ltyc_options.php:46
+msgid "Yes"
+msgstr "Ja"
+
+#: ../ltyc_options.php:29 ../ltyc_options.php:36 ../ltyc_options.php:47
+msgid "No"
+msgstr "No"
+
+#: ../ltyc_options.php:33
+msgid "Link to Custom Post Types:"
+msgstr "Link naar aangepaste Posttypes:"
+
+#: ../ltyc_options.php:44
+msgid "Enable Multi-Site:"
+msgstr "Inschakelen Multisite:"
+
+#: ../ltyc_options.php:54
+msgid "Paginate results after:"
+msgstr "Resultaten in pagina na:"
+
+#: ../ltyc_options.php:61
+msgid "Save Changes"
+msgstr "Bewaar Aanpassingen"
+
+#: ../mce_langs.php:6
+msgid ""
+"I&rsquo;m sorry but it seems that you are trying to switch to a site that "
+"doesn&rsquo;t exist. Please select a valid site from the dropdown above."
+msgstr ""
+"Sorry, maar het lijkt erop dat u probeert over te schakelen naar een website "
+"die niet bestaat. Selecteer een geldige website uit de lijst hierboven."
+
+#: ../mce_langs.php:7
+msgid ""
+"I&rsquo;m sorry but it seems that we were unable to switch you to the site "
+"you requested. Please select another site from the dropdown above."
+msgstr ""
+"Sorry, maar het lijkt erop dat we niet in staat waren om u naar de gewenste "
+"website te leiden. Selecteer een andere website uit de lijst hierboven."
+
+#: ../mce_langs.php:8
+msgid ""
+"I&rsquo;m sorry but it seems that we were unable to complete your request. "
+"Please try again."
+msgstr ""
+"Sorry, maar het lijkt erop dat we niet in staat waren om uw aanvraag te "
+"voltooien. Probeer het opnieuw."
+
+#: ../mce_langs.php:9
+msgid ""
+"I&rsquo;m sorry but it seems that you are trying to switch to page that "
+"doesn&rsquo;t exist. Please try again."
+msgstr ""
+"Sorry, maar het lijkt erop dat u probeert over te schakelen naar pagina die "
+"niet bestaat. Probeer het opnieuw."
+
+#: ../mce_langs.php:10
+msgid ""
+"I&rsquo;m sorry but it seems that you are trying to switch to a panel that "
+"doesn&rsquo;t exist. Please try again."
+msgstr ""
+"Sorry, maar het lijkt erop dat u probeert over te schakelen naar een paneel "
+"dat niet bestaat. Probeer het opnieuw."
+
+#: ../mce_langs.php:11
+msgid ""
+"I&rsquo;m sorry but it seems that you are trying to switch to a custom post "
+"type that doesn&rsquo;t exist. Please try again."
+msgstr ""
+"Sorry, maar het lijkt erop dat u probeert over te schakelen naar een "
+"aangepast posttype dat niet bestaat. Probeer het opnieuw."
+
+#: ../mce_langs.php:12
+msgid ""
+"I&rsquo;m sorry but it seems that you are trying to switch to a taxonomy "
+"that doesn&rsquo;t exist. Please try again."
+msgstr ""
+"Sorry, maar het lijkt erop dat u probeert over te schakelen naar een "
+"taxonomie die niet bestaat. Probeer het opnieuw."
+
+#: ../network_activation.php:4
+msgid "Network Activation Error"
+msgstr "Network Activatie Fout"
+
+#: ../network_activation.php:8
+msgid "Link to Your Content Error:"
+msgstr "Link naar Inhoud Fout:"
+
+#: ../network_activation.php:8
+msgid ""
+"plugin cannot be activated network-wide as it is already active on an "
+"individual site."
+msgstr ""
+"plugin kan niet worden geactiveerd op het netwerk als het al actief is op "
+"een individuele website."
+
+#: ../network_activation.php:9
+msgid "Back"
+msgstr "Terug"
